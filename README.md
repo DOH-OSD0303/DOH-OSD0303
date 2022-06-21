@@ -1,6 +1,6 @@
  👋 Hi, I’m Odane!  
  📊 Data Engineer/Informaticist   
- 🧱 I’m currently learning Databricks   
+ 🧱 Currently learning Python & Databricks   
 
 <!---
 DOH-OSD0303/DOH-OSD0303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
