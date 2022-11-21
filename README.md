@@ -1,4 +1,4 @@
- - 👋 Hi, I’m Odane Dunbar!
+ - 👋 Hi, I’m Odane!
  - ⚙️ Informatician on the Data Integration & Interoperability team.     
  - 🤖 Currently learning Machine Learning methods for Data Linkage.    
  - 📊 Comfortable coding in R/RStudio, SAS & SQL.  
